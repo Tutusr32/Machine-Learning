@@ -6,13 +6,12 @@ O conteúdo é inspirado em vídeos e cursos de criadores como Théo Me Why, Hei
 
 ## 📚 Estrutura
 
-- **01-matematica-essencial**: Álgebra linear, estatística básica e probabilidades.
-- **02-pandas-e-numpy**: Manipulação de dados e arrays.
-- **03-visualizacao-dados**: Gráficos com matplotlib e seaborn.
-- **04-supervised-learning**: Regressão, classificação, árvores, SVM, etc.
-- **05-unsupervised-learning**: Agrupamento (K-Means), redução de dimensionalidade (PCA).
-- **06-reforco**: Aprendizado por reforço simples com Q-learning.
-- **07-projetos**: Aplicações reais com datasets públicos.
+- **01-pandas-e-numpy**: Manipulação de dados e arrays.
+- **02-visualizacao-dados**: Gráficos com matplotlib e seaborn.
+- **03-supervised-learning**: Regressão, classificação, árvores, SVM, etc.
+- **04-unsupervised-learning**: Agrupamento (K-Means), redução de dimensionalidade (PCA).
+- **05-reforco**: Aprendizado por reforço simples com Q-learning.
+- **06-projetos**: Aplicações reais com datasets públicos.
 
 ## 🚀 Objetivo
 
